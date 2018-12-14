@@ -5,9 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
 
-/**
- * Created by Константин on 07-Nov-16.
- */
+
 public class ConnectionFactoryImpl implements ConnectionFactory {
 
     private String user;

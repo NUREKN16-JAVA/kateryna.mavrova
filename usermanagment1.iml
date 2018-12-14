@@ -19,5 +19,37 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" scope="TEST" name="dbunit-2.4.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="hsqldb-2.4.0" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/JAVA_PROJECT/jfcunit-2.08.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Desktop/JAVA_PROJECT/jfcunit-2.08.jar" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/JAVA_PROJECT/regex.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Desktop/JAVA_PROJECT/regex.jar" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/JAVA_PROJECT/mockobjects-0.5-core.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Desktop/JAVA_PROJECT/mockobjects-0.5-core.jar" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>

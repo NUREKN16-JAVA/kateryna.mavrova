@@ -3,12 +3,10 @@ package ua.nure.kn.mavrova.usermanagment.db_2;
 import java.io.IOException;
 import java.util.Properties;
 
-/**
- * Created by Константин on 09-Nov-16.
- */
+
 public abstract class DaoFactory {
 
-    protected static final String USER_DAO = "dao.com.kn146.kostia.java.1.db.UserDao";
+    protected static final String USER_DAO = "dao.com.kn16.mavrova.java.db.UserDao";
     private static final String DAO_FACTORY = "dao.factory";
     protected static Properties properties;
 
