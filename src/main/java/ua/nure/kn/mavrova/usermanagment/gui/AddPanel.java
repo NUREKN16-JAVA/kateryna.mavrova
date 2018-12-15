@@ -38,7 +38,7 @@ public class AddPanel extends JPanel implements ActionListener{
     }
 
     private JPanel getButtonPanel() {
-        if (buttonPanel == null) {
+        if (buttonPanel == null ) {
             buttonPanel = new JPanel();
             buttonPanel.add(getOkButton(), null);
             buttonPanel.add(getCancelButton(), null);

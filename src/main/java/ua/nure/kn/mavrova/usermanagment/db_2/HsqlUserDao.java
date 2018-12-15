@@ -18,7 +18,7 @@ public class HsqlUserDao implements UserDao {
 
     private ConnectionFactory connectionFactory;
 
-    public ConnectionFactory getConnectionFactory() {
+    public ConnectionFactory  getConnectionFactory() {
         return connectionFactory;
     }
 

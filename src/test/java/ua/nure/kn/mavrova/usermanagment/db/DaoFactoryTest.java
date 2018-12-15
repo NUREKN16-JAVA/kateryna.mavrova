@@ -12,7 +12,7 @@ public class DaoFactoryTest extends TestCase {
     @Test
     public void testGetUserDao() throws Exception {
         try {
-            DaoFactory daoFactory = DaoFactory.getInstance();
+            DaoFactory daoFactory =  DaoFactory.getInstance();
             assertNotEquals("DaoFactory instance is null", daoFactory);
             UserDao userDao = daoFactory.getUserDao();
             assertNotEquals("UserDao instance is null", userDao);

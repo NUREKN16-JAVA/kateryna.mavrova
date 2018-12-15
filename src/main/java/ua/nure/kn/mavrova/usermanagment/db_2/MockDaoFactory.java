@@ -4,7 +4,7 @@ import com.mockobjects.dynamic.Mock;
 
 public class MockDaoFactory extends DaoFactory {
 
-    private Mock mockUserDao;
+    private Mock  mockUserDao;
 
     public MockDaoFactory() {
         mockUserDao = new Mock(UserDao.class);

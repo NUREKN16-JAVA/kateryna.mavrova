@@ -48,6 +48,6 @@ public class MockUserDao implements UserDao {
 
     @Override
     public void setConnectionFactory(ConnectionFactory connectionFactory) {
-
+       ;
     }
 }

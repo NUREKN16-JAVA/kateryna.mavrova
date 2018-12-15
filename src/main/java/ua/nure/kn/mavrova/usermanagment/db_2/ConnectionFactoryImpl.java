@@ -13,7 +13,7 @@ public class ConnectionFactoryImpl implements ConnectionFactory {
     private String driver;
     private String url;
 
-    public ConnectionFactoryImpl(String driver, String url, String user, String password) {
+    public ConnectionFactoryImpl(String driver,  String url, String user, String password) {
         this.driver = driver;
         this.url = url;
         this.user = user;

@@ -20,8 +20,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Properties;
 import com.mockobjects.dynamic.Mock;
-import static junit.framework.TestCase.assertNotNull;
-import static org.junit.Assert.assertEquals;
+
 
 
 public class MainFrameTest extends JFCTestCase {

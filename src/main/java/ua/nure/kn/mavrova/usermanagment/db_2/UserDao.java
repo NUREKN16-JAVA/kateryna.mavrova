@@ -5,7 +5,7 @@ import ua.nure.kn.mavrova.usermanagment.User;
 
 import java.util.Collection;
 
-public interface UserDao {
+public interface  UserDao {
 
     User create(User user) throws DatabaseException;
 

@@ -48,7 +48,7 @@ public class HsqlUserDaoTest extends DatabaseTestCase {
     @Test
     public void testCreate() throws Exception {
         try {
-            User user = new User();
+            User user = new  User();
             user.setFirstName("John");
             user.setLastName("Smith");
             user.setDateOfBirth(new Date());
