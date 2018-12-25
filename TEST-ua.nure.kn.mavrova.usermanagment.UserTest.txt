@@ -1,9 +1,0 @@
-Testsuite: ua.nure.kn.mavrova.usermanagment.UserTest
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,095 sec
-
-Testcase: simpleAgeTestAfter took 0,005 sec
-Testcase: testNewbornAge took 0,001 sec
-Testcase: ageTestSameMonthBefore took 0 sec
-Testcase: testAgeBirthdayOneDayAfterToday took 0,001 sec
-Testcase: testAgeNow took 0 sec
-Testcase: testFullName took 0 sec

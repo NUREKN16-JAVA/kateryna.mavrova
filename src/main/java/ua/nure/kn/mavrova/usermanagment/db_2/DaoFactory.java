@@ -3,6 +3,7 @@ package ua.nure.kn.mavrova.usermanagment.db_2;
 import java.io.IOException;
 import java.util.Properties;
 
+import ua.nure.kn.mavrova.usermanagment.db_2.UserDao;
 
 public abstract class DaoFactory {
 
