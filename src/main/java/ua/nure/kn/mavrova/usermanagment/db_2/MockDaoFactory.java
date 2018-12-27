@@ -1,4 +1,6 @@
 package ua.nure.kn.mavrova.usermanagment.db_2;
+
+import java.ua.nure.kn.mavrova.usermanagment.db_2.UserDao;
 import com.mockobjects.dynamic.Mock;
 
 
